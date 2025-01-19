@@ -1,0 +1,8 @@
+setup.py
+stavyagoel_topsis/__init__.py
+stavyagoel_topsis/topsis.py
+topsis102203640.egg-info/PKG-INFO
+topsis102203640.egg-info/SOURCES.txt
+topsis102203640.egg-info/dependency_links.txt
+topsis102203640.egg-info/requires.txt
+topsis102203640.egg-info/top_level.txt
